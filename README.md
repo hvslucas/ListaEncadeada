@@ -1,2 +1,1 @@
-# ListaEncadeada
-ListaEncadeada
+# listaSequencial
